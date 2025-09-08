@@ -23,6 +23,7 @@ Find its Successors Or neighbors and Check whether the node is visited or not
 If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.
 
 ### Program:
+```
 from collections import defaultdict
 def dfs(graph, start, visited, path):
     path.append(start)
@@ -45,7 +46,7 @@ visited = defaultdict(bool)
 path = []
 traversed_path = dfs(graph, start, visited, path)
 print("DFS Traversal Path:", traversed_path)
-
+```
 ### Sample Input:
 A B
 A C
