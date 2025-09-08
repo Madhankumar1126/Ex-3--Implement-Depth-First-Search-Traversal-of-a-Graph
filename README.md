@@ -67,6 +67,5 @@ DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 ### Output:
 <img width="1030" height="61" alt="image" src="https://github.com/user-attachments/assets/7143ec0c-0f25-4605-8c70-3c6d44ac82df" />
 
-
-**Result:**
+### Result:
 Thus,the program executed successfully
